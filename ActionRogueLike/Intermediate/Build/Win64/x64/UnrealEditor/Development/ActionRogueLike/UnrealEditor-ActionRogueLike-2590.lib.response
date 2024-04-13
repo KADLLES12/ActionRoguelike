@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ActionRogueLike-2590.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\ActionRogueLikeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\ActionRogueLike.init.gen.cpp.obj"
+"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\ActionRogueLikeGameModeBase.gen.cpp.obj"
+"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\SCharacter.gen.cpp.obj"
+"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\ActionRogueLike.cpp.obj"
+"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\ActionRogueLikeGameModeBase.cpp.obj"
+"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\SCharacter.cpp.obj"
+"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\Default.rc2.res"
+/OUT:"C:\Work\UnReal\Github\ActionRoguelike\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\UnrealEditor-ActionRogueLike-2590.lib"

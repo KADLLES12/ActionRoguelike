@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionroguelike\\uht\\scharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\intermediate\\build\\win64\\x64\\actionroguelikeeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actionroguelike\\definitions.actionroguelike.h",
+            "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\source\\actionroguelike\\public\\scharacter.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionroguelike\\uht\\scharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

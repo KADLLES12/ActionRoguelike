@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionroguelike\\uht\\actionroguelikegamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\intermediate\\build\\win64\\x64\\actionroguelikeeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\actionroguelike\\definitions.actionroguelike.h",
+            "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\source\\actionroguelike\\actionroguelikegamemodebase.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\work\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\work\\unreal\\github\\actionroguelike\\actionroguelike\\intermediate\\build\\win64\\unrealeditor\\inc\\actionroguelike\\uht\\actionroguelikegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
