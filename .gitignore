@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/ActionRogueLike/Binaries
+/ActionRogueLike/Intermediate
+/ActionRogueLike/Saved
+/ActionRogueLike/Intermediate/Build
