@@ -32,6 +32,13 @@ protected:
 
 	void Moveforward(float value);
 
+	void MoveRight(float value);
+
+	void PrimaryAttack();
+
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<AActor> ProjectileClass;
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
